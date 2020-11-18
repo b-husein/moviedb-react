@@ -2,6 +2,8 @@
 
 ### Simple UI with OMDb API;
 
+Moviebase fetches data from an OMDb API and provides the information about the movie title entered by user. UI is coded in React and deployed on Netlify.
+
 ![Movie Database GIF](./public/mdb.gif)
 
 # Getting Started with Create React App
